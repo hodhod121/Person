@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E8yBKmxNEEZYl22DHSykJn9orY4EHa+BCQF4x1XgTcrZ2LW5Mru+J96J/ehyMEmetiUBDEDxhYEBorp2gWkMHg==",
+  "dgSpecHash": "ZPjIX8t20HElodCSO1I/KU3iS6eK42kwR746OPohLWUHR4chemnkWNQU16ADaAAdhhuqPjP8ymRpGkqkmKYc8g==",
   "success": true,
-  "projectFilePath": "c:\\after-2021-11-15\\MyGame\\MyGame.csproj",
+  "projectFilePath": "C:\\after-2021-11-15\\MyGame\\MyGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hodho\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\hodho\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.21\\microsoft.aspnetcore.mvc.razor.extensions.3.1.21.nupkg.sha512",
@@ -166,8 +166,7 @@
     "C:\\Users\\hodho\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\hodho\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\hodho\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\hodho\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\hodho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+    "C:\\Users\\hodho\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
